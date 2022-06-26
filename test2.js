@@ -8,8 +8,8 @@
 				"inputs": [
 					{
 						"name": "name",
-						"value": "Dara",
-					},
+						"value": "Dara"
+					}
 				],
 				"content": "Leave form from [name] this is a leave form"
 			}
@@ -25,8 +25,8 @@
 				"inputs": [
 					{
 						"name": "name",
-						"value": "Sok",
-					},
+						"value": "Sok"
+					}
 				],
 				"content": "Overtime form from [name] this is a leave form"
 			}
